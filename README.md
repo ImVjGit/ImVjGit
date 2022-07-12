@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/960/0*nFNiujsPqNZUtmcs.png)
+![MasterHead](https://raw.githubusercontent.com/ImVjGit/Gif/main/54b6c068097599.5b50bca476b9b.gif?token=GHSAT0AAAAAABV5TASA6O7RBL3LKIQ4K4IMYWNCVZQ)
 
 <h1 align="center">Hi 👋, I'm Vijay Girange</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
