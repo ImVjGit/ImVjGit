@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/girange_vijay" target="blank"><img src="https://img.shields.io/twitter/follow/girange_vijay?logo=twitter&style=for-the-badge" alt="girange_vijay" /></a> </p>
 
-- 🌱 I’m currently learning **Core Java,**
+- 🌱 I’m currently learning **Advance Java,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ImVjGit?tab=repositories](https://github.com/ImVjGit?tab=repositories)
 
-- 💬 Ask me about **C Languages C++ Languages**
+- 💬 Ask me about **C Languages, C++ Languages, Core Java, Advance Java, Mysql**
 
 - 📫 How to reach me **imvijjjay@gmail.com**
 
