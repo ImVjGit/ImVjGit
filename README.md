@@ -1,4 +1,4 @@
-!demo[MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+[MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <!--https://raw.githubusercontent.com/ImVjGit/Gif/main/54b6c068097599.5b50bca476b9b.gif  -->
 <h1 align="center">Hi 👋, I'm Vijay Girange</h1>
