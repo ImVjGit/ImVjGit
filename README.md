@@ -1,309 +1,156 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=terminal&color=0:0d1117,50:00d4ff,100:7c3aed&height=320&section=header&text=%24+~/vijay-girange%0A%0AVijay+Girange%0A%0AJava+Developer+%C2%B7+Building+Scalable+Backend+Systems&fontSize=25&fontColor=00d4ff&animation=fadeIn&fontAlign=38&fontAlignY=20&desc=%F0%9F%8D%85+Spring+Boot+%7C+%F0%9F%93%8D+Pune+%7C+%E2%98%95+Java&descSize=16&descAlignY=65&descAlign=38" />
+# GitHub Achievements Tracker
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imvjgit&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="imvjgit" />
-  <a href="https://github.com/ImVjGit?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-39-00d4ff?style=for-the-badge&logo=github" alt="repos" />
-  </a>
-  <a href="https://github.com/ImVjGit?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-0-FFD700?style=for-the-badge&logo=github" alt="stars" />
-  </a>
-</p>
+## Profile Info
+- **Username:** ImVjGit
+- **Profile:** https://github.com/ImVjGit
 
 ---
 
-## 👨‍💻 About
+## Achievements Status
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Java Developer with 4+ years of experience building           │
-│  enterprise-grade systems with Spring Boot, Microservices,     │
-│  and cloud-native architectures.                               │
-│                                                                 │
-│  Specializing in:                                               │
-│  • Secure Payment Processing (Stripe, PayPal, Razorpay)        │
-│  • Scalable SaaS Platforms                                     │
-│  • Third-Party API Integrations                                 │
-│  • Spring AI & GenAI                                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+### ✅ Completed
 
-<table>
-  <tr>
-    <td align="center">
-      <b>4+</b><br/>Years Experience
-    </td>
-    <td align="center">
-      <b>10+</b><br/>Projects Delivered
-    </td>
-    <td align="center">
-      <b>100%</b><br/>On-Time Delivery
-    </td>
-    <td align="center">
-      <b>150+</b><br/>Issues Resolved
-    </td>
-  </tr>
-</table>
+| Badge | Count | Date | How It Was Earned |
+|-------|-------|------|-------------------|
+| **Quickdraw** | 1 | 2026-08-30 | Issue #1 opened and closed in 5 seconds |
 
 ---
 
-## 🛠️ Skills
+### 🔲 Still Need
 
-### Languages & Frameworks
-<table>
-  <tr>
-    <td><b>Java (8/11/17/21)</b></td>
-    <td><img src="https://progress-bar.xyz/95/" alt="95%"/></td>
-    <td><b>Expert</b></td>
-  </tr>
-  <tr>
-    <td><b>Spring Boot / MVC / Security</b></td>
-    <td><img src="https://progress-bar.xyz/95/" alt="95%"/></td>
-    <td><b>Expert</b></td>
-  </tr>
-  <tr>
-    <td><b>Hibernate / REST APIs / JUnit</b></td>
-    <td><img src="https://progress-bar.xyz/90/" alt="90%"/></td>
-    <td><b>Expert</b></td>
-  </tr>
-</table>
-
-### Microservices & Messaging
-<table>
-  <tr>
-    <td><b>Microservices Architecture</b></td>
-    <td><img src="https://progress-bar.xyz/95/" alt="95%"/></td>
-    <td><b>Expert</b></td>
-  </tr>
-  <tr>
-    <td><b>Apache Kafka / Event-Driven</b></td>
-    <td><img src="https://progress-bar.xyz/80/" alt="80%"/></td>
-    <td><b>Advanced</b></td>
-  </tr>
-  <tr>
-    <td><b>CI/CD Pipelines / Jenkins</b></td>
-    <td><img src="https://progress-bar.xyz/80/" alt="80%"/></td>
-    <td><b>Advanced</b></td>
-  </tr>
-</table>
-
-### Cloud & Storage
-<table>
-  <tr>
-    <td><b>AWS (S3, SQS, DynamoDB)</b></td>
-    <td><img src="https://progress-bar.xyz/80/" alt="80%"/></td>
-    <td><b>Advanced</b></td>
-  </tr>
-  <tr>
-    <td><b>MySQL / Query Optimization</b></td>
-    <td><img src="https://progress-bar.xyz/85/" alt="85%"/></td>
-    <td><b>Advanced</b></td>
-  </tr>
-  <tr>
-    <td><b>Docker</b></td>
-    <td><img src="https://progress-bar.xyz/75/" alt="75%"/></td>
-    <td><b>Advanced</b></td>
-  </tr>
-</table>
-
-### Payment Integrations
-<table>
-  <tr>
-    <td><b>Stripe / Stripe Connect</b></td>
-    <td><img src="https://progress-bar.xyz/85/" alt="85%"/></td>
-    <td><b>Advanced</b></td>
-  </tr>
-  <tr>
-    <td><b>PayPal / Razorpay / Easebuzz</b></td>
-    <td><img src="https://progress-bar.xyz/80/" alt="80%"/></td>
-    <td><b>Advanced</b></td>
-  </tr>
-</table>
-
-### AI & GenAI
-<table>
-  <tr>
-    <td><b>Spring AI / LLM Integration</b></td>
-    <td><img src="https://progress-bar.xyz/80/" alt="80%"/></td>
-    <td><b>Advanced</b></td>
-  </tr>
-  <tr>
-    <td><b>OpenAI / Gemini / Ollama</b></td>
-    <td><img src="https://progress-bar.xyz/75/" alt="75%"/></td>
-    <td><b>Advanced</b></td>
-  </tr>
-  <tr>
-    <td><b>RAG Pipelines / Prompt Engineering</b></td>
-    <td><img src="https://progress-bar.xyz/80/" alt="80%"/></td>
-    <td><b>Advanced</b></td>
-  </tr>
-</table>
+| Badge | Requirement | Status |
+|-------|-------------|--------|
+| **Pull Shark** | PR merged by OTHER users | Not earned (self-merged PRs don't count) |
+| **YOLO** | Merge without review + branch protection | Not earned (no branch protection) |
+| **Pair Extraordinaire** | Co-author commits with another user | Not started |
+| **Galaxy Brain** | Get answers accepted in Discussions | Not started |
+| **Starstruck** | Get stars on your repos | Not started |
+| **Public Sponsor** | Sponsor open source developer ($1+) | Not started |
 
 ---
 
-## 💼 Experience
+## Activity Log
 
-### Java Developer
-**Artcode Private Limited** · Pune
-*Nov 2023 — Present*
+### August 30, 2026
 
+#### Quickdraw Achievement
 ```
-✓ Engineered payment integration modules — RESTful APIs for secure financial 
-  transaction processing
-  
-✓ Architected high-volume transaction pipelines handling 100% data integrity 
-  across financial operations
-  
-✓ Built payment processing engines with AES encryption, digital signing, and 
-  signature verification for financial compliance
-  
-✓ Optimized Spring Boot microservices improving system efficiency by 40% 
-  and reducing API response times by 50%
+Issue #1: "Fix typo in README"
+Opened: 08:06:47 UTC
+Closed: 08:06:52 UTC
+Time: 5 seconds
+Status: EARNED ✅
+```
 
-✓ Directed end-to-end SaaS development, reducing time-to-market by 25% 
-  and enhancing security by 30% via RBAC
+#### Pull Requests Created (Self-Merged - Don't Count for Pull Shark)
+```
+PR #2: Fix typos and improve README formatting
+PR #3: Update README with cleaner formatting
+PR #4: Add achievements section to README
+PR #5: Add GitHub stats visualization
+PR #7: Add contribution streak stats
+PR #9: Add tech stack icons
+PR #10: Super Cool Java Developer Profile README
+PR #11: Professional Portfolio-Style README
 
-✓ Mentored 5+ junior developers, reducing onboarding time by 40%
+Note: These PRs were merged by you on your own repo.
+They do NOT count for Pull Shark badge.
 ```
 
 ---
 
-### Java Developer
-**Maxgen Technologies Pvt. Ltd.** · Pune
-*May 2022 — Oct 2023*
+## How to Earn Remaining Badges
 
+### Pull Shark
+1. Find open source repos to contribute to
+2. Fork the repo
+3. Fix bugs or add features
+4. Submit PR
+5. Have the MAINTAINER merge it
+6. Repeat for 2, 4, 8, 16 PRs
+
+**Where to find issues:**
+- https://github.com/topics/good-first-issue
+- https://up-for-grabs.net
+- https://firsttimersonly.com
+
+### YOLO
+1. Go to your repo settings
+2. Enable "Branch protection rules"
+3. Protect "main" branch
+4. Require pull request reviews
+5. Create a PR
+6. Merge it WITHOUT waiting for review
+7. Badge earned!
+
+### Pair Extraordinaire
+1. Work on a project with someone
+2. Add co-author to commits:
+```bash
+git commit -m "Your message
+
+Co-authored-by: partner <partner@email.com>"
 ```
-✓ Engineered scalable web applications using Spring Boot and Hibernate, 
-  reducing system latency by 35%
-  
-✓ Resolved 150+ production issues achieving 99.8% application uptime
+3. Merge the PR
+4. Need: 2, 4, 8, 16 collaborators for badge levels
 
-✓ Automated CI/CD pipelines reducing manual deployment efforts by 50%
+### Galaxy Brain
+1. Go to GitHub Discussions
+2. Answer questions helpfully
+3. Get your answer marked as "Accepted"
+4. Need: 2, 4, 8, 16 accepted answers
 
-✓ Integrated third-party APIs reducing system failures by 25% 
-  and improved code efficiency by 30%
+### Starstruck
+1. Create useful repositories
+2. Share on social media (Twitter, Reddit, HN)
+3. Get stars from different users
+4. Need: 16, 128, 512, 4096 stars
+
+### Public Sponsor
+1. Go to https://github.com/sponsors
+2. Find a developer to sponsor
+3. Complete payment ($1 minimum)
+4. Badge awarded instantly
+
+---
+
+## Security Note
+
+⚠️ **Tokens were exposed during this session**
+
+Action Required:
+1. Go to https://github.com/settings/tokens
+2. Delete the compromised tokens
+3. Create new tokens with needed scopes
+
+---
+
+## Useful Commands
+
+### Check Your Achievements
+```bash
+curl -s https://api.github.com/users/ImVjGit | grep -o '"public_repos":[0-9]*'
 ```
 
----
+### List Your PRs
+```bash
+curl -s "https://api.github.com/search/issues?q=author:ImVjGit+type:pr" | python3 -c "import sys,json; [print(f'#{i[\"number\"]}: {i[\"title\"]}') for i in json.load(sys.stdin)['items']]"
+```
 
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>💳 Payment File Processing System</h3>
-      <p><b>Tech:</b> Spring Boot, NPCI, Java</p>
-      <p>NPCI integration with Digital Signature, Bank APIs, and Webhooks. 
-      Receives XML/TXT mandate files, processes through validation, parsing, 
-      AES encryption, and digital signature verification. 100% data integrity 
-      across high-volume batches with zero production incidents.</p>
-    </td>
-    <td width="50%">
-      <h3>🌿 Prakruti Parikshan</h3>
-      <p><b>Tech:</b> Spring Boot, AWS, Government</p>
-      <p>Ministry of Ayurveda, Govt. of India. Health-tech platform digitizing 
-      Ayurvedic body constitution assessments. Two-role system with configurable 
-      rule engine, RBAC, and AWS S3 storage.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📱 Raincheck - Social Feed App</h3>
-      <p><b>Tech:</b> Kafka, Twilio, Jenkins</p>
-      <p>Social app with chat, feeds, and Kafka-powered scheduler. Messages 
-      produced at creation time and consumed at exact delivery timestamp. 
-      Twilio handles OTP across registration, login, and profile updates.</p>
-    </td>
-    <td width="50%">
-      <h3>📄 CPA Document Portal</h3>
-      <p><b>Tech:</b> PayPal, RBAC, Spring Security</p>
-      <p>Three-role document platform (Admin, Sub-Admin, User). PayPal integration 
-      for payments, dynamic RBAC for real-time permission management, and webhooks 
-      for async payment confirmation.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎵 Uru Uru - Music Marketplace</h3>
-      <p><b>Tech:</b> Stripe, Stripe Connect, QR Code</p>
-      <p>Artist-first music marketplace with QR codes for each album/track. 
-      Stripe Connect handles artist onboarding and instant fund routing.</p>
-    </td>
-    <td width="50%">
-      <h3>✨ Pen & Page - AI Quotes Generator</h3>
-      <p><b>Tech:</b> Spring AI, OpenRouter, Live</p>
-      <p>Live at <a href="https://penspaper.in">penspaper.in</a>. Quotes generation 
-      app using OpenRouter API for multiple LLM models.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>💬 Document Talk - RAG-Based AI Chat</h3>
-      <p><b>Tech:</b> RAG, Spring AI, Live</p>
-      <p>Live at <a href="https://talkswithdoc.in">talkswithdoc.in</a>. Production-grade 
-      document chat system. Documents chunked, embedded, and stored in vector store. 
-      User queries matched against relevant chunks for context-aware responses.</p>
-    </td>
-  </tr>
-</table>
+### Check Badge Progress
+Visit: https://github.com/ImVjGit?tab=achievements
 
 ---
 
-## 📊 GitHub Stats
+## Tips for Natural Badge Earning
 
-<p align="center">
-  <a href="https://github.com/ImVjGit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imvjgit&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvjgit&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00d4ff" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imvjgit&theme=github_dark&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff" alt="Streak Stats" />
-</p>
+1. **Don't spam** - GitHub detects artificial activity
+2. **Make real contributions** - Fix actual bugs, add features
+3. **Contribute to others** - Help open source projects
+4
+4. **Be active in Discussions** - Answer real questions
+5. **Build useful repos** - People will star them naturally
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imvjgit&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophy" />
-  </a>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://imvjgit.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/ImVjGit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/vijay-girange-a11890240" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/imvijjjay" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:imvijjjay@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-### 💰 Support
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/imvjgitq" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=terminal&color=0:0d1117,50:00d4ff,100:7c3aed&height=80&section=footer&text=%C2%A9+2026+Vijay+Girange+%F0%9F%93%82&fontSize=14&fontColor=00d4ff" />
+*Last Updated: August 30, 2026*
