@@ -1,62 +1,159 @@
-[MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Hi%20👋,%20I'm%20Vijay%20Girange&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Java%20Enthusiast%20|%20Code%20Lover&descSize=18&descAlignY=55&descAlign=50" />
 
-<h1 align="center">Hi 👋, I'm Vijay Girange</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/ImVjGit/Gif/blob/main/Java%20DEVELOPER.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imvjgit&label=Profile%20views&color=0e75b6&style=flat" alt="imvjgit" /> </p>
-
-<p align="left"> <a href="https://twitter.com/imvijjjay" target="_blank"><img src="https://img.shields.io/twitter/follow/imvijjjay?logo=twitter&style=for-the-badge" alt="imvijjjay" /></a> </p>
-
-- 🌱 I'm currently learning **Microservices**
-
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/ImVjGit?tab=repositories)
-
-- 💬 Ask me about **C, C++, Core Java, Advance Java, MySQL**
-
-- 📫 How to reach me **imvijjjay@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/girange_vijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="girange_vijay" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vijay-girange-a11890240/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-g-a11890240" height="30" width="40" /></a>
-<a href="https://www.instagram.com/itsviiijay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imvijjjay" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/imvjgitq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imvjgitq" /></a><br><br></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imvjgit&show_icons=true&locale=en&layout=compact" alt="imvjgit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imvjgit&show_icons=true&locale=en" alt="imvjgit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imvjgit&" alt="imvjgit" /></p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=imvjgit&show_icons=true&theme=radical" alt="imvjgit" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imvjgit&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="imvjgit" />
+  <img src="https://img.shields.io/github/stars/ImVjGit?logo=github&style=for-the-badge" alt="stars" />
+  <img src="https://img.shields.io/github/followers/ImVjGit?logo=github&style=for-the-badge" alt="followers" />
 </p>
 
 ---
 
-<h3 align="left">Contribution Graph:</h3>
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imvjgit&theme=dark" alt="imvjgit" />
+### 🚀 About Me
+
+```java
+public class VijayGirange {
+    private String name = "Vijay Girange";
+    private String role = "Backend Developer";
+    private String location = "India 🇮🇳";
+    private String[] languages = {"Java", "C", "C++", "JavaScript", "SQL"};
+    private String[] frameworks = {"Spring Boot", "Hibernate", "Servlet", "JDBC"};
+    private String[] databases = {"MySQL", "PostgreSQL", "MongoDB"};
+    
+    public void currentLearning() {
+        System.out.println("Microservices Architecture");
+        System.out.println("Cloud Computing");
+        System.out.println("System Design");
+    }
+    
+    public void askMeAbout() {
+        System.out.println("☕ Java & Spring Boot");
+        System.out.println("🗄️ Database Design");
+        System.out.println("🔧 RESTful APIs");
+        System.out.println("🧠 Data Structures & Algorithms");
+    }
+    
+    public void contact() {
+        System.out.println("📧 imvijjjay@gmail.com");
+        System.out.println("🐦 @imvijjjay");
+        System.out.println("💼 linkedin.com/in/vijay-girange-a11890240");
+    }
+}
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/Hibernate-59666B?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/ImVjGit">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imvjgit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvjgit&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imvjgit&theme=tokyonight&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff" alt="Streak Stats" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=imvjgit&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophy" />
+  </a>
+</p>
+
+---
+
+### 🐍 GitHub Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcsetset="https://raw.githubusercontent.com/Platane/sgh输出/contributions/github-user-contribution-dark.svg?version=y1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/sgh输出/contributions/github-user-contribution.svg?version=y1" />
+  <img alt="github contribution grid" src="https://raw.githubusercontent.com/Platane/sgh输出/contributions/github-user-contribution.svg?version=y1" />
+</picture>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://twitter.com/imvijjjay" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/vijay-girange-a11890240" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/itsviiijay" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:imvijjjay@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+### 💰 Support
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/imvjgitq" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer" />
