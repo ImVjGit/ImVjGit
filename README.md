@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/imvijjjay" target="blank"><img src="https://img.shields.io/twitter/follow/imvijjjay?logo=twitter&style=for-the-badge" alt="imvijjjay" /></a> </p>
 
-- 🌱 I’m currently learning **Microservices **
+- 🌱 I'm currently learning **Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ImVjGit?tab=repositories](https://github.com/ImVjGit?tab=repositories)
 
-- 💬 Ask me about **C Languages, C++ Languages, Core Java, Advance Java, Mysql**
+- 💬 Ask me about **C Languages, C++ Languages, Core Java, Advance Java, MySQL**
 
 - 📫 How to reach me **imvijjjay@gmail.com**
 
