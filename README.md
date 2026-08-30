@@ -46,3 +46,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imvjgit&show_icons=true&locale=en" alt="imvjgit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imvjgit&" alt="imvjgit" /></p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=imvjgit&show_icons=true&theme=radical" alt="imvjgit" />
+</p>
+
+---
+
+<h3 align="left">Contribution Graph:</h3>
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imvjgit&theme=dark" alt="imvjgit" />
+</p>
