@@ -1,156 +1,37 @@
-# GitHub Achievements Tracker
+[MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-## Profile Info
-- **Username:** ImVjGit
-- **Profile:** https://github.com/ImVjGit
+<!--https://raw.githubusercontent.com/ImVjGit/Gif/main/54b6c068097599.5b50bca476b9b.gif  -->
+<h1 align="center">Hi 👋, I'm Vijay Girange</h1>
+<h3 align="center">A passionate Backend developer from India </h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/ImVjGit/Gif/blob/main/Java%20DEVELOPER.gif">
+<!-- old link  "https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imvjgit&label=Profile%20views&color=0e75b6&style=flat" alt="imvjgit" /> </p>
 
----
+<p align="left"> <a href="https://twitter.com/imvijjjay" target="blank"><img src="https://img.shields.io/twitter/follow/imvijjjay?logo=twitter&style=for-the-badge" alt="imvijjjay" /></a> </p>
 
-## Achievements Status
+- 🌱 I’m currently learning **Microservices **
 
-### ✅ Completed
+- 👨‍💻 All of my projects are available at [https://github.com/ImVjGit?tab=repositories](https://github.com/ImVjGit?tab=repositories)
 
-| Badge | Count | Date | How It Was Earned |
-|-------|-------|------|-------------------|
-| **Quickdraw** | 1 | 2026-08-30 | Issue #1 opened and closed in 5 seconds |
+- 💬 Ask me about **C Languages, C++ Languages, Core Java, Advance Java, Mysql**
 
----
+- 📫 How to reach me **imvijjjay@gmail.com**
 
-### 🔲 Still Need
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/girange_vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="girange_vijay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vijay-girange-a11890240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-g-a11890240" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itsviiijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imvijjjay" height="30" width="40" /></a>
+</p>
 
-| Badge | Requirement | Status |
-|-------|-------------|--------|
-| **Pull Shark** | PR merged by OTHER users | Not earned (self-merged PRs don't count) |
-| **YOLO** | Merge without review + branch protection | Not earned (no branch protection) |
-| **Pair Extraordinaire** | Co-author commits with another user | Not started |
-| **Galaxy Brain** | Get answers accepted in Discussions | Not started |
-| **Starstruck** | Get stars on your repos | Not started |
-| **Public Sponsor** | Sponsor open source developer ($1+) | Not started |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
----
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/imvjgitq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imvjgitq" /></a><br><br></p>
 
-## Activity Log
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imvjgit&show_icons=true&locale=en&layout=compact" alt="imvjgit" /></p>
 
-### August 30, 2026
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imvjgit&show_icons=true&locale=en" alt="imvjgit" /></p>
 
-#### Quickdraw Achievement
-```
-Issue #1: "Fix typo in README"
-Opened: 08:06:47 UTC
-Closed: 08:06:52 UTC
-Time: 5 seconds
-Status: EARNED ✅
-```
-
-#### Pull Requests Created (Self-Merged - Don't Count for Pull Shark)
-```
-PR #2: Fix typos and improve README formatting
-PR #3: Update README with cleaner formatting
-PR #4: Add achievements section to README
-PR #5: Add GitHub stats visualization
-PR #7: Add contribution streak stats
-PR #9: Add tech stack icons
-PR #10: Super Cool Java Developer Profile README
-PR #11: Professional Portfolio-Style README
-
-Note: These PRs were merged by you on your own repo.
-They do NOT count for Pull Shark badge.
-```
-
----
-
-## How to Earn Remaining Badges
-
-### Pull Shark
-1. Find open source repos to contribute to
-2. Fork the repo
-3. Fix bugs or add features
-4. Submit PR
-5. Have the MAINTAINER merge it
-6. Repeat for 2, 4, 8, 16 PRs
-
-**Where to find issues:**
-- https://github.com/topics/good-first-issue
-- https://up-for-grabs.net
-- https://firsttimersonly.com
-
-### YOLO
-1. Go to your repo settings
-2. Enable "Branch protection rules"
-3. Protect "main" branch
-4. Require pull request reviews
-5. Create a PR
-6. Merge it WITHOUT waiting for review
-7. Badge earned!
-
-### Pair Extraordinaire
-1. Work on a project with someone
-2. Add co-author to commits:
-```bash
-git commit -m "Your message
-
-Co-authored-by: partner <partner@email.com>"
-```
-3. Merge the PR
-4. Need: 2, 4, 8, 16 collaborators for badge levels
-
-### Galaxy Brain
-1. Go to GitHub Discussions
-2. Answer questions helpfully
-3. Get your answer marked as "Accepted"
-4. Need: 2, 4, 8, 16 accepted answers
-
-### Starstruck
-1. Create useful repositories
-2. Share on social media (Twitter, Reddit, HN)
-3. Get stars from different users
-4. Need: 16, 128, 512, 4096 stars
-
-### Public Sponsor
-1. Go to https://github.com/sponsors
-2. Find a developer to sponsor
-3. Complete payment ($1 minimum)
-4. Badge awarded instantly
-
----
-
-## Security Note
-
-⚠️ **Tokens were exposed during this session**
-
-Action Required:
-1. Go to https://github.com/settings/tokens
-2. Delete the compromised tokens
-3. Create new tokens with needed scopes
-
----
-
-## Useful Commands
-
-### Check Your Achievements
-```bash
-curl -s https://api.github.com/users/ImVjGit | grep -o '"public_repos":[0-9]*'
-```
-
-### List Your PRs
-```bash
-curl -s "https://api.github.com/search/issues?q=author:ImVjGit+type:pr" | python3 -c "import sys,json; [print(f'#{i[\"number\"]}: {i[\"title\"]}') for i in json.load(sys.stdin)['items']]"
-```
-
-### Check Badge Progress
-Visit: https://github.com/ImVjGit?tab=achievements
-
----
-
-## Tips for Natural Badge Earning
-
-1. **Don't spam** - GitHub detects artificial activity
-2. **Make real contributions** - Fix actual bugs, add features
-3. **Contribute to others** - Help open source projects
-4
-4. **Be active in Discussions** - Answer real questions
-5. **Build useful repos** - People will star them naturally
-
----
-
-*Last Updated: August 30, 2026*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imvjgit&" alt="imvjgit" /></p>
